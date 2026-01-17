@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Naxxo 👋</h1>
 <p align="center">
-  Mostly self-taught developer • Roblox scripting • Web projects
+  Mostly self-taught scripter • Roblox scripting • Web projects
 </p>
 
 ---
 
 ## 👤 About Me
-- Mostly self-taught programmer  
-- Roblox scripting & game systems  
-- Websites and miscellaneous dev projects  
+- Mostly self-taught scripter 
+- Roblox scripting & game systems 
 - Always learning and improving  
 
 ⭐ If you find anything useful, a star is always appreciated.
