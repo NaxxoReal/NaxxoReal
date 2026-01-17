@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://thumbnails.roproxy.com/v1/users/avatar-headshot?userIds=8693341003&size=420x420&format=Png" width="160" />
-</p>
-
-<p align="center">
   <b>Mostly self-taught developer focused on Roblox systems and custom tooling.</b>
 </p>
 
