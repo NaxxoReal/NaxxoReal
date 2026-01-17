@@ -36,4 +36,4 @@
 
 ## 🌐 Links
 - Website: https://example.com  
-- GitHub: https://github.com/therealnaxxo
+- GitHub: https://github.com/NaxxoReal
