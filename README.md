@@ -1,16 +1,25 @@
-<h1 align="center">Hi, I'm Naxxo 👋</h1>
+<h1 align="center">Naxxo</h1>
 <p align="center">
-  Mostly self-taught scripter • Roblox scripting • Web projects
+  Roblox Developer • Scripting • Web Projects
+</p>
+
+<p align="center">
+  <img src="https://thumbnails.roproxy.com/v1/users/avatar-headshot?userIds=8693341003&size=420x420&format=Png" width="160" />
+</p>
+
+<p align="center">
+  <b>Mostly self-taught developer focused on Roblox systems and custom tooling.</b>
 </p>
 
 ---
 
-## 👤 About Me
-- Mostly self-taught scripter 
-- Roblox scripting & game systems 
-- Always learning and improving  
+## 🖤 About
+- Roblox scripting & game systems  
+- Script hubs, tooling, automation  
+- Web projects & infrastructure  
+- Always improving and refining  
 
-⭐ If you find anything useful, a star is always appreciated.
+⭐ Stars are always appreciated if you find something useful.
 
 ---
 
