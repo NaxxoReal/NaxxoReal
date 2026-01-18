@@ -1,21 +1,12 @@
-<!-- Discord -->
-<p align="center">
-  <a href="https://discord.com/users/1188842720173760592">
-    <img 
-      src="https://lanyard.cnrad.dev/1188842720173760592?hideStatus=true"
-      alt="Discord"
-    />
-  </a>
-</p>
+<br/><a href="https://discord.com/users/1098248637789786165" target="_blank">
+  <p align="center">
+    <img src="https://lanyard.cnrad.dev/api/1098248637789786165" align="middle" alt="Discord Presence">
+  </p>
+</a>
 
-<!-- GitHub Summary Cards -->
-<p align="center">
-  <img 
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealnaxxo&theme=github_dark"
-  />
-  <img 
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=therealnaxxo&theme=github_dark"
-  />
-</p>
+<a href="https://github.com/mstudio45">
+  <p align="center">
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mstudio45&theme=github_dark"/>
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mstudio45&theme=github_dark"/>
+  </p>
+</a>
