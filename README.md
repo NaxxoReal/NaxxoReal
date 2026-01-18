@@ -1,39 +1,23 @@
-<h1 align="center">Naxxo</h1>
-<p align="center">
-  Roblox Developer • Scripting • Web Projects
-</p>
+<br/>
+<a href="https://discord.com/users/1188842720173760592" target="_blank">
+  <p align="center">
+    <img 
+      src="https://lanyard.cnrad.dev/api/1188842720173760592" 
+      align="middle" 
+      alt="Discord Presence"
+    >
+  </p>
+</a>
 
-<p align="center">
-  <b>Mostly self-taught developer focused on Roblox systems and custom tooling.</b>
-</p>
-
----
-
-## 🖤 About
-- Roblox scripting & game systems  
-- Script hubs, tooling, automation  
-- Web projects & infrastructure  
-- Always improving and refining  
-
-⭐ Stars are always appreciated if you find something useful.
-
----
-
-## 🌐 Social
-
-### 💬 Discord (Profile)
-[![Discord](https://img.shields.io/badge/Discord-1188842720173760592-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/1188842720173760592)
-
-### 🧩 Discord Server
-[![Join Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/Z3EYPTEAq4)
-
----
-
-## 🎮 Roblox
-[![Roblox](https://img.shields.io/badge/Roblox-Profile-black?style=for-the-badge&logo=roblox)](https://www.roblox.com/users/8693341003/profile)
-
----
-
-## 🌐 Links
-- Website: https://example.com  
-- GitHub: https://github.com/NaxxoReal
+<a href="https://github.com/therealnaxxo">
+  <p align="center">
+    <img 
+      height="180em" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therealnaxxo&theme=github_dark"
+    />
+    <img 
+      height="180em" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=therealnaxxo&theme=github_dark"
+    />
+  </p>
+</a>
