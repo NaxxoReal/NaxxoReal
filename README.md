@@ -31,10 +31,7 @@
 ## 🎮 Roblox
 <p align="center">
   <a href="https://www.roblox.com/users/8693341003/profile">
-    <img
-      src="https://img.shields.io/badge/Roblox-therealnaxxo-black?style=for-the-badge&logo=roblox"
-      alt="Roblox Profile"
-    />
+    <img src="https://img.shields.io/badge/Roblox-Profile-black?style=for-the-badge&logo=roblox">
   </a>
 </p>
 
